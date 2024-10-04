@@ -11,13 +11,13 @@
     <tbody>
         <tr>
             <td>1</td>
-            <td>18258</td>
+            <td>18258_큐 2</td>
             <td>https://www.acmicpc.net/problem/18258</td>
         </tr>
         <tr>
             <td>1</td>
-            <td></td>
-            <td>https://www.acmicpc.net/problem/</td>
+            <td>9012_괄호</td>
+            <td>https://www.acmicpc.net/problem/9012</td>
         </tr>
         <tr>
             <td>1</td>
