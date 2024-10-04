@@ -3,7 +3,7 @@
 <table>
     <thead>
         <tr>
-            <th>check</th>
+            <th>count</th>
             <th>id</th>
             <th>link</th>
         </tr>
